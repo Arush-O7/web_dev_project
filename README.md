@@ -1,4 +1,4 @@
-# ⚡ CodeArena - Frontend for a Modern Coding Platform
+# ⚡ CodeArena - Frontend for a Modern Coding Platform ( Created by MIHIR DIXIT and ARUSH MISHRA )
 
 **CodeArena** is a frontend web application designed as a sleek and responsive coding platform for programmers and competitive coders. Built with **Next.js**, **React**, and **Tailwind CSS**, it features an intuitive interface for browsing problems, writing code, viewing submissions, and tracking user performance.
 
