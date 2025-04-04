@@ -26,7 +26,6 @@
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Library**: [React](https://react.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Editor (optional)**: [Monaco Editor](https://microsoft.github.io/monaco-editor/) or [CodeMirror](https://codemirror.net/)
 - **Icons**: [Lucide](https://lucide.dev/), [Heroicons](https://heroicons.com/)
 - **Routing & SSR**: Handled via Next.js
 
